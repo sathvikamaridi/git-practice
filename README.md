@@ -1,4 +1,4 @@
 # git-practice
-this is my Git practice Repository.
+This is my Git Practice Repository.
 <br>
 Author - Sathvika Maridi
